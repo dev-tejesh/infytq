@@ -1,0 +1,15 @@
+list
+
+operations 
+
+append
+delete
+insert(position,element)
+pop will delete last element
+
+DBMS
+
+
+cardinality--no of rows in relational database(TABLES)
+DEGREE OF RELATION-no of attributes(columns)
+A domain is the set of allowable values for one or more attributes.(only specific values)
